@@ -1,4 +1,4 @@
-# hadoop_mr
+# hadoop_mr: Counting 5 top airways with highest delays
 
 To run:
  - Check out script parameters with `./flight_delay_counter.sh -h` or open the file 
